@@ -1,1 +1,1 @@
-print("hola yo me llamo alvaro y mi mejor amigo es: aun no se :( ")
+print("hola me llamo alvaro y tu")
